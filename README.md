@@ -5,7 +5,13 @@ An e-commerce digital showroom for Velour & Vanilla Fragrance House, showcasing 
 
 ## Part 2 Changelog
 ### Revisions Based on Part 1 Feedback
-- [Detail any structural or content fixes requested by your lecturer for Part 1]
+- Populated README with full documentation
+- Created css/, js/, images/ folders
+- Removed velour-vanilla-website folder - moved all HTML files to root
+- Fixed HTML tags, nav, footer, comments, links and menu
+- Ensured index.html, about.html, products.html, contact.html exist
+- Fixed GitHub pushing - learned to push from PC
+- Fixed referencing to Harvard style as per POE
 
 ### Visual Styling & Responsive Layout
 - Created `css/style.css` with modular CSS rules and linked to all HTML pages.
