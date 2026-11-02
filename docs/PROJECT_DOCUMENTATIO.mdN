@@ -1,0 +1,97 @@
+ 
+## 1. Introduction
+
+Velour & Vanilla Fragrance House is a website developed to present a luxury fragrance brand online. It provides information about the brand, displays its products, and allows visitors to make enquiries or contact the business.
+
+## 2. Website Structure
+
+The project contains five main HTML pages.
+
+### Home Page — index.html
+
+The homepage introduces the fragrance brand and provides visitors with access to the main sections of the website.
+
+### About Page — about.html
+
+The About page provides information about the brand, its identity, and its approach to fragrances.
+
+### Products Page — products.html
+
+The Products page presents the fragrance collection. Interactive product filters and product details are available where implemented
+
+### Enquiry Page — enquiry.html
+
+The Enquiry page allows customers to submit product-related enquiries using a form.
+
+### Contact Page — contact.html
+
+The Contact page provides a form through which visitors can enter their contact details and message.
+
+## 3. Technologies Used
+
+### HTML5
+
+HTML provides the structure and content of the website pages.
+
+### CSS3
+
+CSS controls the website's appearance, including layouts, navigation, forms, buttons, and responsive styling.
+
+### JavaScript
+
+JavaScript supports interactive website features and client-side form validation.
+
+## 4. JavaScript Functionality
+
+The shared JavaScript file is located at `js/main.js`.
+
+Depending on the implementation in that file, the website's interactive features include navigation controls, product filtering, product detail interactions, and form feedback.
+
+Client-side validation helps visitors correct invalid input before proceeding.
+
+## 5. Search Engine Optimisation
+
+Each main HTML page should have a relevant page title and a descriptive meta description.
+
+The following pages are included in the SEO review:
+
+- `index.html`
+- `about.html`
+- `products.html`
+- `enquiry.html`
+- `contact.html`
+
+Page-specific metadata helps search engines understand the purpose of each page.
+
+## 6. Testing
+
+The following checks should be performed before submitting or publishing the website:
+
+1. Open each HTML page in a web browser.
+2. Test navigation links between pages.
+3. Check that images load correctly.
+4. Check that CSS styling is applied.
+5. Test product filters and product detail controls where available.
+6. Submit forms with valid and invalid information to check validation feedback.
+7. Check the website on desktop and mobile screen sizes.
+8. Confirm that each page has an appropriate title and meta description.
+
+## 7. Limitations
+
+Client-side form validation does not guarantee that customer messages are delivered or stored.
+
+A backend or external form-handling service must be configured if the business needs to receive and retain customer submissions.
+
+## 8. Future Improvements
+
+Possible future improvements include:
+
+- Connecting forms to a secure message-handling service.
+- Adding server-side validation and spam protection.
+- Testing accessibility and keyboard navigation.
+- Improving performance and image optimisation.
+- Conducting further testing across browsers and devices.
+
+## 9. Conclusion
+
+The website provides an online presence for Velour & Vanilla Fragrance House through its brand information, product pages, and customer contact features. Continued testing and improvements can help make the website more reliable, accessible, and useful to visitors.
