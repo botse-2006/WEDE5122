@@ -1,0 +1,33 @@
+# Changelog
+
+## Part 3 Updates — November 2026
+
+### 1. Added Contact Form
+
+### 2. JavaScript Form Validation
+
+Created and updated `js/main.js` to provide client-side validation for form inputs.
+
+The JavaScript provides feedback to help visitors identify invalid information and indicates when a form passes the client-side checks.
+
+### 3. SEO Meta Tags
+
+Added or verified page-specific titles and meta descriptions for the following pages:
+
+- `index.html`
+- `products.html`
+- `about.html`
+- `enquiry.html`
+- `contact.html`
+
+These changes help describe the content of each page to search engines and visitors.
+
+### 4. Project Documentation
+
+Updated `README.md` with an overview of the website, its technologies, page structure, features, and instructions for running the project.
+
+Added `docs/PROJECT_DOCUMENTATION.md` to document the website's functionality, testing, and possible future improvements.
+
+### Important Note
+
+The forms currently provide client-side validation and feedback. Actual delivery or storage of customer messages requires a configured backend or form-handling service.
